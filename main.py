@@ -43,3 +43,10 @@ for 1 in range(5):
 # Estructuras de decision
 palabra_secreta = "123pormi"
 adivinacion = input("Adivina la palabra secreta: ")
+
+
+
+def nombre: str
+def precio: int
+if precio =< 0 = null
+
